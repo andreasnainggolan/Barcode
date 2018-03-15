@@ -33,7 +33,7 @@
 	}
 
 	?>
-
+	<p>Mantap</p>
 	<br/>
 	<footer>
 		<center
